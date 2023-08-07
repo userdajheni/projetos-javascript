@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* centralizar no centro da viewport */
+.container {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+}
+
+.box {
+    /* display flex */
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    padding: 10px;
+    color: white;
+    border-radius: 8px;
+    background-color: black;
+}
+
+span {
+    color: #49A9EE;
+}
+
+button {
+    border: 0;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: #49A9EE;
+}
+
+button:hover {
+    background-color: #98bad2;
+}
