@@ -4,4 +4,4 @@ A melhor maneira de aprender uma linguagem de programação é colocando a mão 
 
 ## Visualize os projetos:
 * [Trocador de cores - Ao clicar no botão, o body muda de cor](https://userdajheni.github.io/projetos-javascript/trocador-cores/index.html)
-* [Contador Simples](https://userdajheni.github.io/projetos-javascript/trocador-cores/index.html)
+* [Contador Simples](https://userdajheni.github.io/projetos-javascript/contador/index.html)
